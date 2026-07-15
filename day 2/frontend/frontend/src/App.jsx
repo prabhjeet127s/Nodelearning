@@ -25,7 +25,7 @@ function App() {
     <>
 
       <div>
-        heloo
+        hello
 
         {jokes.map((item, key) => (
           <div>
